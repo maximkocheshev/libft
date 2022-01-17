@@ -1,3 +1,4 @@
+# Libft
 In the first part of this project, we must re-code a set of the libc functions, as defined in their
 man. Our functions will need to present the same prototype and behaviors as the originals.
 
