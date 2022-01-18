@@ -1,13 +1,13 @@
 # Libft
-### ***Mandatory part***
-#### ***The first part*** 
+### ***Mandatory part:***
+#### ***The aim of the first part is:*** 
 
-We must re-code a set of the libc functions, as defined in their man. Our functions will need to present the same prototype and behaviors as the originals.
+To re-code a set of the libc functions, as defined in their man. Our functions will need to present the same prototype and behaviors as the originals.
 
-#### ***The second part***
+#### ***The aim of the second part is:***
 
-We must code a set of functions that are either not included in the libc, or included in a different form.
+To code a set of functions that are either not included in the libc, or included in a different form.
 
-### ***Bonus part***
+### ***The aim of the bonus part is:***
 
-We must code a set of functions that will allow our to easily use our lists.
+To code a set of functions that will allow our to easily use our lists.
