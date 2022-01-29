@@ -1,5 +1,5 @@
 # Libft
-### ***Mandatory part:***
+### ***Mandatory part***
 #### ***The aim of the first part is:*** 
 
 To re-code a set of the libc functions, as defined in their man. Our functions will need to present the same prototype and behaviors as the originals.
