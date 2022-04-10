@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strdup.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rbiodies <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: rbiodies <rbiodies@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/13 17:07:08 by rbiodies          #+#    #+#             */
-/*   Updated: 2021/10/14 15:14:57 by rbiodies         ###   ########.fr       */
+/*   Updated: 2022/03/30 12:12:54 by rbiodies         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,8 @@ char	*ft_strdup(const char *s1)
 	int		i;
 	char	*buffer;
 
-    if (s1 == NULL)
-        return (NULL);
+	if (s1 == NULL)
+		return (NULL);
 	i = 0;
 	while (s1[i] != '\0')
 		i++;
