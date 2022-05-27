@@ -1,4 +1,4 @@
-# Libft
+# <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" /> Libft
 ### The aim of the first part: 
 To re-code a set of the libc functions, as defined in their man. Our functions will need to present the same prototype and behaviors as the originals.
 ### The aim of the second part:
