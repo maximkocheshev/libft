@@ -1,12 +1,7 @@
 
 NAME	= 	libft.a
 
-SRCS	=	${wildcard arr/*.c} \
-			${wildcard ascii/*.c} \
-			${wildcard math/*.c} \
-			${wildcard mem/*.c} \
-			${wildcard put/*.c} \
-			${wildcard str/*.c}
+SRCS	=	${wildcard arr/*.c ascii/*.c math/*.c mem/*.c put/*.c str/*.c}
 
 SRCS_B	= 	${wildcard lst/*.c}
 
