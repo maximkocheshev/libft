@@ -28,7 +28,7 @@ bonus	:
 
 clean	:
 			@${RM} ${OBJ} ${OBJ_B}
-			@printf "Files '${OBJ}' and '${OBJ_B}' are deleted !\n"
+			@printf "Files '*.o' are deleted !\n"
 
 fclean	:	clean
 			@${RM} ${NAME}
